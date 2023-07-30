@@ -1,6 +1,9 @@
 # zardkat 🐱
 
-A [hardhat-circom](https://github.com/projectsophon/hardhat-circom) template to generate zero-knowledge circuits, proofs, and solidity verifiers
+# Steps to make the project
+* Clone git repository https://github.com/projectsophon/hardhat-circom.
+* Go on circuit and and from their go to circuit.custom
+* Now, write the logic for the circuit as shown below -
 
 ## Quick Start
 Compile the Multiplier2() circuit and verify it against a smart contract verifier
